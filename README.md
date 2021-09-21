@@ -1,4 +1,4 @@
-# fb-marketplace-telegram-alert
+# FB Marketplace Telegram Alert
 This script monitor FB Marketplace for new car, compare its details from KBB and send alert over Telegram. To get your Telegram channel ID:
 
 1. Create new bot using @botfather.
